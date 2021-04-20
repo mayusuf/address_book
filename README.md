@@ -2,15 +2,25 @@
 in which add, edit and delete functionalities has been done.
 
 The address book contains the following data:
+
 Firstname
+
 Lastname
+
 Street and number
+
 Zip
+
 City
+
 Country
+
 Phonenumber
+
 Birthday
+
 Email address
+
 Picture (optional)
 
 Techniques
